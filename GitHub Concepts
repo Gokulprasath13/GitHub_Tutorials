@@ -21,3 +21,7 @@ With a pull request you are proposing that your changes should be merged (pulled
 Pull requests show content differences, changes, additions, and subtractions in colors (green and red).
 As soon as you have a commit, you can open a pull request and start a discussion, even before the code is finished.
 
+Fork:
+-----
+A fork is a copy of a repository. 
+This is useful when you want to contribute to someone else's project or start your own project based on theirs.
